@@ -8,7 +8,7 @@ import Business.Abstract.UserService;
 import Business.Abstract.VerificationMailService;
 import DataAccess.Abstract.UserDao;
 import Entities.Concrete.User;
-//User kayýt alaný
+
 public class UserManager implements UserService {
 
 	UserDataCheckService userDataCheckService;
